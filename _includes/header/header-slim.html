@@ -3,7 +3,7 @@
     <div class="row">
       <div class="col-12">
         <div class="it-header-slim-wrapper-content">
-          <a class="d-none d-lg-block navbar-brand" href="#">{{ site.owner }}</a>
+          <a class="d-none d-lg-block navbar-brand" href="{{ site.ownerlink }}">{{ site.owner }}</a>
           <div class="nav-mobile">
             <nav>
               <a class="it-opener d-lg-none" data-toggle="collapse" href="#menu1" role="button" aria-expanded="false" aria-controls="menu1">
@@ -17,7 +17,7 @@
                   {% for link in site.links %}
                     <li><a href="{{ link.url }}">{{ link.name }}</a></li>
                   {% endfor %}
-                  <li class="d-lg-none"><a href="#">{{ site.owner }}</a></li>
+                  <li class="d-lg-none"><a href="{{ site.ownerlink }}">{{ site.owner }}</a></li>
                 </ul>
               </div>
             </nav>
