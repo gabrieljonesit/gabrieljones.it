@@ -56,34 +56,4 @@ exclude:
   - CNAME
 
 
-
-site:
-  owner: "Realizzato con il contributo dell'ufficio 18F"
-  ownerlink: "https://gabrieljones.it/uffici/18f"
-  links:
-    - name: "Link 1"
-      url: "#"
-    - name: "Link 2"
-      url: "#"
-
-menu:
-  it:
-    - title: "Home"
-      url: "/"
-      order: 1
-    - title: "Chi siamo"
-      url: "/chi-siamo"
-      order: 2
-    - title: "Servizi"
-      url: "/servizi"
-      order: 3
-  en:
-    - title: "Home"
-      url: "/en/"
-      order: 1
-    - title: "About Us"
-      url: "/en/about"
-      order: 2
-    - title: "Services"
-      url: "/en/services"
-      order: 3
+creator: 18f
