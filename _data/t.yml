@@ -1,6 +1,6 @@
 ---
 ## Main icon
-icon: "/assets/images/b.svg"
+icon: "assets/bootstrap-italia/dist/svg/sprite.svg#it-bookmark"
 
 ## Social Card [1200x630]
 social-card: /assets/images/favicons/social-card.png
