@@ -13,12 +13,11 @@
     cookieconsent.run({"notice_banner_type":"interstitial","consent_type":"express","palette":"dark","language":"it","page_load_consent_levels":["strictly-necessary"],"notice_banner_reject_button_hide":false,"preferences_center_close_button_hide":false,"page_refresh_confirmation_buttons":false});
     });
     </script>
-    <a href="#" id="open_preferences_center">Update cookies preferences</a>
-
 </head>
 <body>
   {%- include header/header.html -%}
   {{ content }}
+  <a href="#" id="open_preferences_center">Update cookies preferences</a>
   {%- include footer/footer.html -%}
   {%- include cookiebar.html -%}
   {%- include scripts.html -%}
