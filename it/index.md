@@ -11,8 +11,8 @@ order: 1
 {% include hero.html %}
 
 <main class="container my-4" markdown="1">
+ciao
 
-{% include posts.html %}
 
 </main>
 
