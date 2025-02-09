@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="{{ page.lang }}">
+<head>
+  {% include meta.html %}
+  {% include styles.html %}
+  {%- if jekyll.environment == 'production' -%}
+  {%- include analytics/google-analytics.html -%}
+  {%- endif -%}
+    <!-- Cookie Consent by TermsFeed https://www.TermsFeed.com -->
+    <script type="text/javascript" src="//www.termsfeed.com/public/cookie-consent/4.2.0/cookie-consent.js" charset="UTF-8"></script>
+    <script type="text/javascript" charset="UTF-8">
+    document.addEventListener('DOMContentLoaded', function () {
+    cookieconsent.run({"notice_banner_type":"interstitial","consent_type":"express","palette":"dark","language":"it","page_load_consent_levels":["strictly-necessary"],"notice_banner_reject_button_hide":false,"preferences_center_close_button_hide":false,"page_refresh_confirmation_buttons":false});
+    });
+    </script>
+</head>
+<body>
+
+
+<div class="it-header-slim-wrapper">
+  <div class="container-xxl">
+    <div class="row">
+      <div class="col-12">
+        <div class="it-header-slim-wrapper-content">
+          <a class="d-none d-lg-block navbar-brand" href="https://gabrieljones.it?gabbytvorigin">Sito amministrato da gabrieljones.it</a>
+          <div class="nav-mobile">
+            <nav aria-label="Navigazione accessoria">
+              <a class="it-opener d-lg-none" data-bs-toggle="collapse" href="#menu1a" role="button" aria-expanded="false" aria-controls="menu4">
+                <span>Sito amministrato da gabrieljones.it</span>
+                <svg class="icon" aria-hidden="true"><use href="/bootstrap-italia/dist/svg/sprites.svg#it-expand"></use></svg>
+              </a>
+              <div class="link-list-wrapper collapse" id="menu1a">
+                <ul class="link-list">
+                  <li><a class="dropdown-item list-item" href="https://culture.gabrieljones.it/">culture</a></li>
+                  <li><a class="dropdown-item list-item" href="https://onlygabbyme.substack.com/">onlygabbyme</a></li>
+                </ul>
+              </div>
+            </nav>
+          </div>
+          <div class="it-header-slim-right-zone">
+            <div class="it-access-top-wrapper">
+              <a class="btn btn-primary btn-sm" href="https://auth.cdn.gabrieljones.it/">Accedi</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<div class="row">
+  <div class="col-12 col-lg-6">
+    <!--start card-->
+    <div class="card-wrapper">
+      <div class="card" style="box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.1);">
+        <div class="card-body">
+<div class="rower">
+<div class="row">
+  <video controls="" data-bs-video="" class="">
+    <source src="https://italia.github.io/bootstrap-italia/docs/assets/video/ElephantsDream.mp4" type="video/mp4">
+    <track kind="captions" src="https://italia.github.io/bootstrap-italia/docs/assets/video/subtitles-it.vtt" srclang="it" label="Italiano" default="">
+    <track kind="captions" src="https://italia.github.io/bootstrap-italia/docs/assets/video/subtitles-en.vtt" srclang="en" label="English">
+    <track kind="captions" src="https://italia.github.io/bootstrap-italia/docs/assets/video/subtitles-es.vtt" srclang="es" label="Español">
+  </video>
+  
+</div>  
+  
+</div>
+    <h3 class="card-title h5">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor…</h3>
+          <p class="card-text font-serif">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+        </div>
+      </div>
+    </div>
+    <!--end card-->
+  </div>
+  
+  <div class="col-12 col-lg-4">
+    <!--start card-->
+    <div class="card-wrapper">
+      <div class="card" style="box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);">
+        <div class="card-body">
+          <h3 class="card-title h5">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor…</h3>
+          <p class="card-text font-serif">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+        </div>
+      </div>
+    </div>
+    <!--end card-->
+  </div>
+</div>
+  {{ content }}
+  <a href="#" id="open_preferences_center">Update cookies preferences</a>
+  {%- include footer/footer.html -%}
+  {%- include cookiebar.html -%}
+  {%- include scripts.html -%}
+</body>
+</html>
