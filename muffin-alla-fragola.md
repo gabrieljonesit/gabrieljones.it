@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Cookie Policy
+title: Ricetta dei muffin alla fragola
 description:
 lang: it
-ref: cookie-policy
+ref: muffin-fragola
 permalink: /it/cdn/pages/gabrieljones/ricette?muffin
 ---
 ### 🧁 **Muffin alla Van de Kamp con ripieno di marmellata di fragole**  
