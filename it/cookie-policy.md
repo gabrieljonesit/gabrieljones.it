@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: tv
 title: Cookie Policy
 description:
 lang: it
