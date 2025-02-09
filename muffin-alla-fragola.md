@@ -4,7 +4,7 @@ title: Ricetta dei muffin alla fragola
 description:
 lang: it
 ref: muffin-fragola
-permalink: /it/cdn/pages/gabrieljones/ricette?muffin
+permalink: /it/cdn/pages/gabrieljones/ricette-muffin/
 ---
 ### 🧁 **Muffin alla Van de Kamp con ripieno di marmellata di fragole**  
 
@@ -41,8 +41,6 @@ Inforna in forno statico preriscaldato a 180°C per circa **18-20 minuti**, fino
 
 5️⃣ **Decorazione e servizio:**  
 Lascia raffreddare i muffin su una gratella. Spolvera con zucchero a velo e, se vuoi, aggiungi una fettina di fragola fresca sopra per un tocco elegante.  
-
----
 
 ### **Consigli alla Bree Van de Kamp 💁‍♀️**  
 ✨ Usa marmellata di buona qualità, meglio se con pezzi di frutta per un effetto più goloso.  
