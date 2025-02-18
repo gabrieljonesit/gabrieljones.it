@@ -28,7 +28,7 @@ order: 1
                 </div><!-- /card-body -->
                 <div class="card-comments-wrapper">
                   <div class="card-avatar-img">
-                    <img src="assets/placeholders/img-avatar-250x250.png" alt="Immagine profilo">
+                    <img src="https://edu.gabrieljones.it/assets/placeholders/img-avatar-250x250.png" alt="Immagine profilo">
                   </div><!-- /card-avatar-img -->
                   <div class="card-avatar-content">
                     <p class="font-weight-normal">da <a href="https://comune.arenagiovani.it/persone/presidentoffice/" aria-label="vai alla pagina Matteo Enea Bianchi"><strong class="text-underline"><u>Matteo</u></strong></a></p>
