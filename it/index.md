@@ -24,41 +24,11 @@ order: 1
             
 <div class="card card-teaser no-after rounded shadow-sm border border-light">
     <div class="card-body pb-5">
-        <!-- card head -->
-        <!-- <div class="category-top">
-            <svg class="icon">
-            <use
-                xlink:href="#"
-            ></use>
-            </svg>
-        </div> -->
         <h3 class="card-title title-xlarge-card">Accesso all'informazione</h3>
         <p class="card-text">
             Servizi comunali, documenti, uffici, notizie ed eventi relativi a Accesso all'informazione        </p>
-
         <!-- sito tematico -->
                 <p class="card-text pb-3">Visita il sito:</p>
-        
-<a href="https://servizionline.comune.fontanafredda.pn.it/mc/mc_p_ricerca.php" class="card card-teaser card-bg-warning rounded mt-0 p-3" target="_blank">
-            <div class="avatar size-lg me-3">
-            <img src="https://www.comune.fontanafredda.pn.it/wp-content/uploads/2024/09/Albo-Pretorio.webp" title="Albo-Pretorio">        </div>
-        <div class="card-body">
-        <h3 class="card-title text-white sito-tematico">
-            Albo Pretorio        </h3>
-        <p class="card-text text-sans-serif text-white">
-            L'Albo Pretorio online è la bacheca virtuale per la pubblicazione di atti e provvedimenti amministrativi        </p>
-    </div>
-</a>        
-        <!-- links -->
-            </div>
-    <a class="read-more pt-0" href="https://www.comune.fontanafredda.pn.it/argomento/accesso-allinformazione/">
-        <span class="list-item-title-icon-wrapper">
-            <span class="text">Esplora argomento</span>
-            <svg class="icon">
-                <use xlink:href="#it-arrow-right"></use>
-            </svg>
-        </span>
-    </a>
 </div>
 
 <div class="card card-teaser no-after rounded shadow-sm border border-light">
@@ -73,7 +43,7 @@ order: 1
         </div> -->
         <h3 class="card-title title-xlarge-card">Matrimonio</h3>
         <p class="card-text">
-            Servizi comunali, documenti, uffici, notizie ed eventi relativi a Matrimonio        </p>
+            Servizi, documenti, uffici, notizie ed eventi relativi a Matrimonio        </p>
 
         <!-- sito tematico -->
                 <p class="card-text pb-3">Visita il sito:</p>
