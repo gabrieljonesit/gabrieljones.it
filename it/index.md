@@ -16,7 +16,7 @@ order: 1
     <div class="container white-color">
       <div class="row mb-3">
         <div class="col-12">
-          <h2 id="titleEx5">Scopri chi sono?</h2>
+          <h2 id="titleEx5">Scopri chi sono!</h2>
         </div>
       </div>
       <div class="row">
@@ -28,3 +28,8 @@ order: 1
     <!-- contenuto di esempio END -->
   </div>
 </section>
+
+
+
+
+Hey ciao a tutti! Mi chiamo Gabriel Jones, e sono un developer, animatore, aspirante bibliotecario, nerd e molto altro! Nato l'11 giugno del 2008 sono un giovane politico nel mio comune, e fondatore del progetto Arena Giovani.
