@@ -13,7 +13,7 @@ order: 1
 
 
 <section id="evidenza" class="evidence-section">
-            <div class="section py-5 pb-lg-80 px-lg-5 position-relative" style="background-image: url('https://www.comune.fontanafredda.pn.it/wp-content/themes/design-comuni-italia-bx/assets/img/evidenza-header-blu.webp');">
+            <div class="section py-5 pb-lg-80 px-lg-5 position-relative">
                 
 <div class="container">
         <div class="row">
